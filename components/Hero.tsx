@@ -21,7 +21,7 @@ export default function Hero() {
           href="#menu"
           className="mt-10 inline-block bg-amber-500 text-white font-bold text-lg px-10 py-4 rounded-full shadow-xl hover:bg-amber-600 transition-transform transform hover:scale-105"
         >
-          Khám Phá Thực Đơn.
+          Khám Phá Thực Đơn
         </a>
       </div>
     </section>
