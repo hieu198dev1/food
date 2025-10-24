@@ -4,10 +4,7 @@ export default function Hero() {
       id="home"
       className="h-[90vh] min-h-[600px] flex items-center justify-center text-white text-center px-4 
                  bg-cover bg-center bg-fixed"
-      style={{
-        backgroundImage:
-          "linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('https://pasgo.vn/Upload/anh-chi-tiet/nha-hang-nem-nuong-xuan-dan-phu-doan-1-normal-703997034838.webp')",
-      }}
+      
     >
       <div className="max-w-3xl animate-fade-in-up"> {/* Thêm hiệu ứng đơn giản */}
         <h1 className="text-4xl md:text-6xl font-black uppercase tracking-wide text-shadow-lg">
