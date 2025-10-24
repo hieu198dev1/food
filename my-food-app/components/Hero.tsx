@@ -6,7 +6,7 @@ export default function Hero() {
                  bg-cover bg-center bg-fixed"
       style={{
         backgroundImage:
-          "linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('https://cdn1.nhatrangtoday.vn/images/photos/nem-nuong-nha-trang-27.jpg')",
+          "linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.55)), url('https://pasgo.vn/Upload/anh-chi-tiet/nha-hang-nem-nuong-xuan-dan-phu-doan-1-normal-703997034838.webp')",
       }}
     >
       <div className="max-w-3xl animate-fade-in-up"> {/* Thêm hiệu ứng đơn giản */}

@@ -5,7 +5,7 @@ export default function About() {
         {/* Image */}
         <div className="rounded-lg overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-500">
           <img
-            src="https://pasgo.vn/Upload/anh-chi-tiet/nha-hang-nem-nuong-xuan-dan-phu-doan-1-normal-703997034838.webp"
+            src="https://nemnuonghungviet.com/nemhungviet/uploads/2023/04/nem-vien-ho-lo-1-1.jpg"
             alt="Nem nướng công thức gia truyền"
             className="w-full h-full object-cover"
           />
